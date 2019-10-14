@@ -1,0 +1,82 @@
+.container {                                               /*pagination css*/
+	margin: 0px auto 0px auto;
+	width: 1200px;
+	background-color: #ffffff;
+}
+.swatch-bharat-image{
+width: 150px;
+height: auto;
+}
+.logo-image{
+
+	height: 100px;
+	width: 100px;
+}
+div.banner{
+	 line-height: 1.6;
+}
+
+.logo{
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.navbar{
+	display: flex;
+	flex-direction: row;
+}
+
+.navigation{
+    color:#0C4678 ;
+    width: 100%;
+    margin-left: 30px;
+    padding-top: 5px;
+    font-family: arial;
+    font-size: 18px;
+}
+.image-home{
+   width: 15px;
+   height: auto;
+}
+.banner{
+	margin-top: 15px;
+    font-family: arial;
+    text-align: justify;
+}
+.devide-3-devide{
+	display: flex;
+	flex-direction: row;
+	margin-top: 15px;
+}
+.devide-3-devide > .devide1{
+    margin: 5px;
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    font-family: arial;
+}
+.devide-2-devide{
+	display: flex;
+	flex-direction: row;
+	margin-top: 15px;
+	text-align: justify;
+    font-family: arial;
+}
+.devide-2-devide > .devide2{
+	margin: 5px;
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    font-family: arial;
+}
+
+th{
+   line-height: 1.8;
+   word-spacing: 5px;
+   text-align: right;
+}
+
+.footer{
+	    text-align: justify;
+    font-family: arial;
+}
